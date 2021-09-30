@@ -1,0 +1,59 @@
+body{
+  background-image: url("Background4.jpg");
+  background-repeat: no-repeat;
+  background-size:2000px 720px;
+  background-attachment: fixed;
+  background-position: right top;
+
+}
+
+
+
+h2{
+
+  font-family: sans-serif;
+  border: 3px solid black;
+}
+h3{
+  font-style: italic;
+  font-family: Arial;
+
+}
+li,h5{
+  font-style:normal;
+  font-size: 1.3em;
+  text-shadow:1px 2px red;
+}
+.word{
+  text-decoration: underline;
+  font-style: italic;
+  color:RED;
+  text-transform: capitalize;
+  text-shadow: 0px 0px;
+}
+#center{
+    background-color: lightgray;
+    border: 5px ridge;
+    padding: 20px;
+    margin: 20px;
+    max-width:1000px;
+    border-color: red green blue yellow;
+    border-bottom-style:dashed;
+    text-indent: 50px;
+    letter-spacing: normal;
+}
+
+table{
+  background-color: white;
+  border: 2px ridge blue;
+}
+
+
+h2,p{
+  color:black;
+  opacity: 100%;
+}
+.name{
+  font-size: 2vw;
+  text-shadow:1px 1px white;
+}
